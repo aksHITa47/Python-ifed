@@ -32,7 +32,7 @@ def intersection_datatype(list1, list2):
     Parameters
     ----------
     list1 (array_like) : First list 
-    list2 (array_like) : SEcond list
+    list2 (array_like) : Second list
 
     Returns
     -------
