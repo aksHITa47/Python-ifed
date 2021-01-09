@@ -17,7 +17,7 @@ def intersection_numpy(list1,list2):
 def intersection_datatype(list1, list2):
     """Find the overlapping values of two lists.
 
-    arameters
+    Parameters
     ----------
     list1 (array_like) : First list 
     list2 (array_like) : SEcond list
